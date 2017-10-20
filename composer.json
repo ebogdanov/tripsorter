@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {"Tripsorter\\": "src/"}
+  },
+  "autoload-dev": {
+    "psr-4": {"Tripsorter\\": "tests/"}
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6.2"
+  }
+}
